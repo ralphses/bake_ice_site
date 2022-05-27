@@ -1,0 +1,16 @@
+{
+    "name": "ralphses/bake_ice",
+    "autoload": {
+        "psr-4": {
+            "Ralphses\\BakeIce\\": "src/",
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ralphses",
+            "email": "eze.raph@gmail.com"
+        }
+    ],
+    "require": {}
+}
